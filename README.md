@@ -1,14 +1,14 @@
-# Hi, I'm Angelique 👋
+# Hi, I'm Angelique 
 
 Second-year **Bachelor of Computing** student at Belgium Campus iTversity, based in Rustenburg, South Africa.  
 I enjoy the whole data process: cleaning messy data, finding the patterns and turning them into something people can use.
 
-🔎 **Looking for:** a data internship or entry-level data role  
-📫 **Contact:** cilliersangelique7@gmail.com · [LinkedIn](https://www.linkedin.com/in/angelique-cilliers-678577345/)
+ **Looking for:** a data internship or entry-level data role  
+ **Contact:** cilliersangelique7@gmail.com · [LinkedIn](https://www.linkedin.com/in/angelique-cilliers-678577345/)
 
 ---
 
-## 📊 Projects
+## Projects
 
 | Project | What it does | Tools | Links |
 |---|---|---|---|
@@ -19,7 +19,7 @@ I enjoy the whole data process: cleaning messy data, finding the patterns and tu
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 **Programming:** Python (pandas) · SQL · C# · Java · JavaScript · HTML/CSS  
 **Data:** data cleaning & ETL · exploratory data analysis · statistical analysis · data validation · database design · data warehousing  
