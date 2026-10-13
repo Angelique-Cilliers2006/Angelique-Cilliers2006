@@ -13,7 +13,7 @@ I enjoy the whole data process: cleaning messy data, finding the patterns and tu
 | Project | What it does | Tools | Links |
 |---|---|---|---|
 | **BOQ Material & Cost Tracker** | Combines three differently formatted Bills of Quantities for a family electrical business into one dataset, then tracks material use and cost against R4.8M in budgeted work | Python, pandas, Streamlit, Plotly | [Code](https://github.com/Angelique-Cilliers2006/boq-cost-tracker) · [Live app](https://ppz7tgsllxlcfuy8sppazw.streamlit.app/) |
-| **Retail Sales Dashboard** | Interactive dashboard exploring 1,000 retail transactions by category, gender, age and month | Python, pandas, Streamlit, Plotly | [Code](https://github.com/Angelique-Cilliers2006/retail-sales-dashboard) |
+| **Retail Sales Dashboard** | Interactive dashboard exploring 1,000 retail transactions by category, gender, age and month | Python, pandas, Streamlit, Plotly | [Code](https://github.com/Angelique-Cilliers2006/retail-sales-dashboard) · [Live app](https://f9ouitrwxrh4kfvsthjp3r.streamlit.app/) |
 | **DataSafety Statistical Dashboard** | Excel dashboard analysing 514 workplace safety incidents, with interactive plant, department and shift filters | Excel, statistics | [Files](https://github.com/Angelique-Cilliers2006/datasafety-dashboard) |
 | **BC Academic360** *(in progress)* | Student planner that brings Moodle deadlines into one dashboard, with reminders, a chatbot and Power BI analytics. 10-person team; I built the staff-facing app | Power Apps, Power Automate, Power BI | Coming soon |
 
