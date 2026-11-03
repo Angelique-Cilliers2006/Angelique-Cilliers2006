@@ -16,6 +16,7 @@ I enjoy the whole data process: cleaning messy data, finding the patterns and tu
 | **Retail Sales Dashboard** | Interactive dashboard exploring 1,000 retail transactions by category, gender, age and month | Python, pandas, Streamlit, Plotly | [Code](https://github.com/Angelique-Cilliers2006/retail-sales-dashboard) · [Live app](https://datasafety-dashboard-nnjri7aszwcym7c9k8qvvr.streamlit.app/) |
 | **DataSafety Statistical Dashboard** | Excel dashboard analysing 514 workplace safety incidents, with interactive plant, department and shift filters | Excel, statistics | [Files](https://github.com/Angelique-Cilliers2006/datasafety-dashboard) |
 | **BC Academic360** | Student planner that brings Moodle deadlines into one dashboard, with reminders, a chatbot and Power BI analytics. 10-person team; I built the staff-facing app | Power Apps, Power Automate, Power BI | [Code & screenshots](https://github.com/Angelique-Cilliers2006/bc-planner-admin) |
+| **Baobab Ridge Wildlife Records System** | Windows desktop app for a wildlife rehabilitation centre: add, view, search, update and delete animal records, with automatic status and housing classification and a summary report. 4-person team; I built the form layout and the Add feature with input validation | C#, .NET 8, Windows Forms | [Code](https://github.com/Angelique-Cilliers2006/Baobab-Ridge-Wildlife) |
 
 ---
 
